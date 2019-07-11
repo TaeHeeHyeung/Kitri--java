@@ -1,0 +1,63 @@
+1555027819217	Move folder
+1555027823216	Delete elements
+1555027832704	Delete element
+1555027861777	Delete element
+1555028085863	Rename field 'tableCol'
+1555028323216	Rename field 'colArr'
+1555028344439	Rename field 'coltableArr'
+1555028378847	Rename field 'comboMenuArr'
+1555032061988	Move folder
+1555032064234	Delete element
+1555032166177	Rename resource 'errorfix'
+1555034192745	Rename package 'com.kitri.library.book'
+1555034217662	Move compilation unit
+1555034225680	Move compilation unit
+1555034228318	Move compilation unit
+1555034254125	Move compilation units
+1555034742537	Move compilation unit
+1555034779465	Move compilation unit
+1555034788607	Move compilation units
+1555034838124	Move compilation unit
+1555034843210	Move compilation unit
+1555034873543	Move compilation unit
+1555034888831	Move compilation unit
+1555034901554	Move compilation units
+1555034924974	Rename type 'UiManager'
+1555034933743	Rename type 'StartMain'
+1555034945397	Move compilation unit
+1555034947384	Delete element
+1555035033076	Delete element
+1555035059410	Delete element
+1555035063872	Rename type 'BookMngController'
+1555035067182	Rename type 'BookMngService'
+1555035072831	Rename type 'SBookMngService'
+1555035075125	Rename type 'CBookMngController'
+1555035654967	Move compilation unit
+1555036141352	Move compilation unit
+1555041830936	Rename field 'controller'
+1555042775134	Rename field 'controller'
+1555043318775	Rename type 'CardMain'
+1555044539804	Rename type 'StartControlelr'
+1555044613209	Move compilation units
+1555045533635	Delete element
+1555046041147	Rename type 'StartControler'
+1555046129944	Delete element
+1555046360076	Rename field 'startControler'
+1555046488396	Rename type 'StartManager'
+1555046524675	Move compilation unit
+1555046526595	Move compilation unit
+1555046529123	Delete element
+1555047088227	Rename field 'login'
+1555047116497	Move compilation units
+1555047187141	Rename field 'pStartManager'
+1555047540565	Move compilation units
+1555047554582	Rename package 'com.kitri.library.start'
+1555047816817	Rename local variable 'controller'
+1555047931686	Rename field 'startTest'
+1555050950505	Rename local variable 'beforeBook'
+1555051038781	Rename field 'service'
+1555052693289	Rename type 'Main'
+1555053546662	Rename field 'pMain'
+1555054283834	Rename local variable 'bookMng'
+1555054287438	Rename local variable 'pbookMng'
+1555059967312	Delete element

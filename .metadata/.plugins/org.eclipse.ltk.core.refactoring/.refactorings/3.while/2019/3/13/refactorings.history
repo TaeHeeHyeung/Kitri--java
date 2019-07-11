@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 7 elements to &apos;3.while/src&apos;&#x0D;&#x0A;- Original project: &apos;3.while&apos;&#x0D;&#x0A;- Destination element: &apos;3.while/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     WhileGugudan.java&#x0D;&#x0A;     BCTest.java&#x0D;&#x0A;     WhileLotto.java&#x0D;&#x0A;     ForLotto.java&#x0D;&#x0A;     Lotto.java&#x0D;&#x0A;     forTest1.java&#x0D;&#x0A;     ForTest2.java&#x0D;&#x0A;- Update references to refactored element" description="Move files" destination="/src" element1="WhileGugudan.java" element2="BCTest.java" element3="WhileLotto.java" element4="ForLotto.java" element5="Lotto.java" element6="forTest1.java" element7="ForTest2.java" files="7" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1553476624170" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,77 @@
+1555287177503	Move folder
+1555287179612	Move folders
+1555287187703	Delete elements
+1555287191315	Move folder
+1555287197251	Move folder
+1555287200801	Delete element
+1555287215010	Move folder
+1555287221899	Rename resource '0.20190911 libraryProject'
+1555287692399	Rename method 'addBook'
+1555288676346	Delete element
+1555289690479	Rename type 'NotePad_FileDialog'
+1555289739326	Rename type 'FileDialog'
+1555289787945	Rename package 'com.kitri.library.bookmng.bookadd'
+1555289791596	Rename package 'com.kitri.library.bookmng.bookadd1'
+1555289800742	Rename type 'FileDialogFrame'
+1555289810712	Rename type 'NotePad_FileDialog'
+1555289828865	Rename type 'NotePad'
+1555289843664	Rename type 'OpenFile'
+1555289849564	Rename type 'FileManager'
+1555289856697	Rename type 'FileReader'
+1555289862160	Rename type 'FileDialogFrame'
+1555289954301	Rename type 'IamgeFileFrame'
+1555289966950	Rename field 'fileDialog'
+1555289978628	Rename field 'imageFileframe'
+1555290407065	Rename field 'fileDialog'
+1555290414166	Rename field 'imageFile'
+1555290468758	Rename local variable 'fileInArr'
+1555290510118	Rename local variable 'fileStr'
+1555291096372	Rename field 'imageFileFrame'
+1555291220586	Rename type 'ImageFileReader'
+1555292763190	Rename method 'viewImage'
+1555292767076	Rename method 'showChoiceImage'
+1555294116778	Rename local variable 'image'
+1555294233222	Delete element
+1555294243913	Rename type 'ImageFileFrame'
+1555294377428	Rename field 'pMain'
+1555294670916	Rename field 'pMain'
+1555294835512	Rename field 'service'
+1555295001366	Rename field 'pMain'
+1555302416483	Rename method 'close'
+1555302546438	Rename method 'tfSetText'
+1555302768579	Rename field 'fileName'
+1555302938171	Move compilation unit
+1555303920550	Rename method 'viewImageReader'
+1555304378346	Delete element
+1555304785699	Rename field 'imagePath'
+1555305280402	Rename method 'showChoiceImg'
+1555306014585	Rename type 'ImageFileDialog'
+1555306019814	Rename type 'ImageFile'
+1555307075769	Delete elements
+1555311527623	Rename method 'readImageProcess'
+1555312817692	Rename method 'readImgtoLabel'
+1555313046292	Rename method 'readImgtoLabel'
+1555313081769	Rename field 'imageFile'
+1555313157943	Rename method 'readImageProcess'
+1555313164295	Rename method 'loadImage'
+1555313212547	Rename method 'setImagetoLabel'
+1555313221787	Rename method 'setLoadImagetoLabel'
+1555313249867	Rename method 'setLoadImage_toLabel'
+1555313259810	Rename method 'setLabelImage_ofLoadImg'
+1555313358913	Rename field 'readfilePath'
+1555313479183	Rename method 'readImage'
+1555313798772	Rename field 'imageFile'
+1555313847954	Encapsulate field 'readFilePath'
+1555313856774	Encapsulate field 'readfileName'
+1555314184950	Rename field 'readFile'
+1555314653599	Rename local variable 'bookinfo'
+1555317222027	Rename field 'bt_ok'
+1555317727133	Copy file
+1555318447135	Rename resource '1_20190409_library_project.exerd'
+1555318449055	Move file
+1555318661742	Rename local variable 'memberDto'
+1555318745409	Rename local variable 'memberDto'
+1555318946969	Rename package 'com.kitri.library.bookrent'
+1555318962791	Rename package 'com.kitri.library.bookretrun'
+1555319126886	Rename field 'bookDao'
+1555319363343	Rename local variable 'rentISBN'

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="265" key="DIALOG_X_ORIGIN"/>
+		<item value="255" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="EditorSelectionDialog">
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="-1" key="dialogHeight"/>
+		<item value="-1" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="com.objectaid.uml.new.classdiagram" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="com.objectaid.uml.new"/>
+		</list>
+	</section>
+	<section name="FileSystemExportWizard">
+	</section>
+	<section name="InstallationDialogSettings">
+		<item value="702" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="739" key="DIALOG_HEIGHT"/>
+		<item value="86" key="DIALOG_X_ORIGIN"/>
+		<item value="-298" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.export.ZipFile" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.ZipFile" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item value="false" key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\user\Desktop\20190418_03_end.zip"/>
+			<item value="C:\Users\user\Desktop\20190417_05.zip"/>
+			<item value="C:\Users\user\Downloads\20190416.zip"/>
+			<item value="C:\Users\user\Desktop\asdf.zip"/>
+			<item value="C:\Users\user\Desktop\20190414.zip"/>
+			<item value="C:\Users\user\Desktop\20190412.zip"/>
+			<item value="C:\Users\user\Desktop\20190411.zip"/>
+			<item value="C:\Users\user\Desktop\20190409.zip"/>
+			<item value="C:\Users\user\Desktop\chatDesign.zip"/>
+			<item value="C:\Users\user\Desktop\ex_multichat.zip"/>
+			<item value="C:\Users\user\Desktop\test.zip"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\user\Desktop\jfreechart-1.0.19\tests"/>
+			<item value="C:\Users\user\Desktop\jfreechart-1.0.19\tests\org"/>
+			<item value="C:\Users\user\Desktop\20190407\libraryJava\src\com\kitri\library\ui"/>
+			<item value="C:\Users\user\Desktop\20190407\libraryJava\src\com\kitri\db2"/>
+			<item value="C:\Users\user\Desktop\calculator_형태희"/>
+			<item value="C:\Users\user\Desktop\11_utiltest"/>
+			<item value="E:\javadata\workspace\javase\javasource\library_project"/>
+			<item value="C:\Users\user\git\javasource"/>
+			<item value="E:\javadata\5.javasource\test"/>
+			<item value="E:\javadata\5.javasource"/>
+			<item value="E:\javadata\5.javasource\8.modifier"/>
+			<item value="E:\javadata\5.javasource\7. interface"/>
+			<item value="E:\javadata\5.javasource\6.abstract"/>
+			<item value="E:\javadata\5.javasource\4.class"/>
+			<item value="E:\javadata\5.javasource\3.while"/>
+			<item value="E:\javadata\5.javasource\2.condition"/>
+			<item value="E:\javadata\5.javasource\1.operator"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID"/>
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\user\Desktop\20190419 libraryProject.zip"/>
+			<item value="C:\Users\user\Desktop\20190418_16 libraryProject.zip"/>
+			<item value="C:\Users\user\Desktop\20190418_15 libraryProject.zip"/>
+			<item value="C:\Users\user\Desktop\20190417 libraryProject.zip"/>
+			<item value="C:\Users\user\Desktop\20190416 libraryProject.zip"/>
+			<item value="C:\Users\user\Desktop\20190416 libraryProjectVer3.zip"/>
+			<item value="C:\Users\user\Desktop\2019-04-15.zip"/>
+			<item value="C:\Users\user\Desktop\2019-04-12libraryPackage_member.zip"/>
+			<item value="C:\Users\user\Desktop\2019-04-12libraryPackage.zip"/>
+			<item value="C:\Users\user\Desktop\2019-04-11library_backup.zip"/>
+			<item value="C:\Users\user\Desktop\2019-04-11library.zip"/>
+			<item value="C:\Users\user\Desktop\2019-04-09library.zip"/>
+			<item value="C:\Users\user\Desktop\test.zip"/>
+		</list>
+	</section>
+</section>

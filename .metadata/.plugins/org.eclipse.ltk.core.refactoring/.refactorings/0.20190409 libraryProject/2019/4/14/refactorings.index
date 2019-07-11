@@ -1,0 +1,40 @@
+1554176242558	Rename package 'ttt'
+1554176270208	Copy compilation units
+1554176807611	Rename package 'ttt'
+1554267156829	Rename package 'jdbc'
+1554267163176	Rename type 'jdbc'
+1554270282488	Rename package 'com.kitri.jdbc'
+1554270296116	Rename type 'JdbcTest'
+1554270342986	Copy compilation unit
+1554270393894	Rename package 'com.kitri.jdbc.prestatement'
+1554270409856	Rename package 'PreparedStatement'
+1554270424317	Rename local variable 'stmt'
+1554270430994	Rename local variable 'prestmt'
+1554366788954	Delete element
+1554366792956	Rename resource 'library_project2.exerd'
+1554366803912	Rename resource 'library_project.exerd'
+1554366812551	Rename resource '0.library_project.exerd'
+1554373113604	Copy compilation unit
+1554373118278	Rename type 'BookDetail2'
+1554374443608	Rename type 'MemberDetail'
+1554374452407	Rename type 'BookDetai'
+1554374499795	Rename type 'MemberDetail'
+1554374506288	Rename type 'BookDetail'
+1554374509814	Rename type 'BookDetail1'
+1554422957799	Delete element
+1554422990128	Copy file
+1554425725709	Rename resource 'library_project2.exerd'
+1554427575717	Move compilation units
+1554427699356	Rename compilation unit 'LibraryDto.java'
+1554428245013	Rename package 'com.kitri.jdbc.statment'
+1554428402181	Rename type 'BookDto'
+1554429540759	Rename type 'JdbcStatementTest'
+1554429555149	Rename type 'DtoTest'
+1554429559068	Rename type 'BookDtoTest'
+1554439810485	Rename field 'preparedStatement'
+1554442134680	Move compilation unit
+1554442146162	Rename type 'jTableTest'
+1554442699675	Rename package 'com.kitri.library.db'
+1554451689549	Rename method 'selectALL'
+1554455470030	Copy file
+1554457484208	Rename resource '20190405library_project2.exerd'

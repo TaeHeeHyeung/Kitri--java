@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="COMBO_MENU_ARR" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="COMBO_MENU_ARR"/>
+			<item value="comboBoxMenu"/>
+			<item value="comboSerarchBookMenu"/>
+			<item value="combo"/>
+			<item value="comboSerarchBookMenu.setBorder(new LineBorder(new Color(0, 0, 0), 2, true));"/>
+			<item value="btn_pStatis"/>
+			<item value="//"/>
+			<item value="JCombo"/>
+			<item value="대여리스트에"/>
+			<item value="joption"/>
+			<item value="jopen"/>
+			<item value="RentService"/>
+			<item value="setTable"/>
+			<item value="tableUpdate"/>
+			<item value="setTableModel"/>
+		</list>
+		<list key="replacehistory">
+			<item value="readImageName"/>
+			<item value=""/>
+			<item value="mainController"/>
+			<item value="pMain"/>
+			<item value="b"/>
+			<item value="+&quot; &quot;+"/>
+			<item value="SC_"/>
+			<item value="lists.get(i)"/>
+			<item value="&apos;"/>
+			<item value="bb."/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="288" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="390" key="DIALOG_HEIGHT"/>
+		<item value="8" key="DIALOG_X_ORIGIN"/>
+		<item value="329" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

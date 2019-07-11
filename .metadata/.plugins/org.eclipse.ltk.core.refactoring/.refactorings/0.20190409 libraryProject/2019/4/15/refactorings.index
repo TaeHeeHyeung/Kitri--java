@@ -1,0 +1,71 @@
+1554681566314	Rename resource '20190405library_project.exerd'
+1554681610441	Move compilation unit
+1554681612849	Delete element
+1554681699961	Move compilation units
+1554681788640	Move compilation units
+1554683414948	Rename package 'com.kitri.db2'
+1554684972904	Move compilation unit
+1554685009036	Rename type 'LibraryController'
+1554685294690	Rename type 'UpFrame'
+1554685317878	Move compilation unit
+1554685411904	Rename local variable 'frame'
+1554685486504	Rename type 'LoginController'
+1554685491186	Rename field 'loginController'
+1554685533659	Rename type 'LoginService'
+1554685634498	Rename package 'com.kitri.controller'
+1554685650445	Rename package 'com.kitri.db'
+1554685692748	Delete element
+1554685710866	Delete element
+1554685734394	Rename type 'Main'
+1554685763794	Delete element
+1554686407593	Rename local variable 'memDto'
+1554687249275	Rename local variable 'memlist'
+1554688005410	Rename local variable 'memagerList'
+1554688256658	Rename resource '1. 20190405library_project.exerd'
+1554689729281	Rename local variable 'member_id'
+1554698782175	Delete element
+1554698787603	Copy compilation units
+1554701780310	Rename field 'cardLayout'
+1554702711439	Copy compilation unit
+1554702755307	Rename type 'CardLayoutTest'
+1554702821139	Rename type 'CardLayoutLogin'
+1554702839329	Rename field 'login'
+1554703295802	Delete element
+1554703390453	Rename local variable 'login'
+1554703395585	Rename local variable 'uiManager'
+1554704161348	Rename package 'com.kitri.jdbc.test'
+1554704170958	Rename package 'com.kitri.swing.test'
+1554704960348	Rename field 'logoutBt'
+1554704974778	Rename field 'loginBt'
+1554707376672	Rename field 'layout'
+1554712878597	Move compilation unit
+1554712907042	Move compilation unit
+1554713018123	Rename field 'btn_LogOut'
+1554713084895	Rename local variable 'uiManager'
+1554713091026	Rename type 'UIManager'
+1554713194762	Copy compilation unit
+1554713216602	Move compilation unit
+1554713320857	Delete element
+1554713338267	Move compilation unit
+1554713344803	Rename package 'com.kitri.library.start'
+1554713370262	Rename type 'UiManager'
+1554713425272	Rename type 'testJava'
+1554713520677	Rename field 'mBtn_LogIn'
+1554714692384	Rename resource '1.library_project.exerd'
+1554714696736	Rename resource 'library_project.exerd'
+1554714699887	Rename resource 'backup2.exerd'
+1554714704723	Rename resource '20190405library_projectBackup.exerd'
+1554774367764	Rename resource 'bacup_1.exerd'
+1554782538365	Rename local variable 'bookArr'
+1554797600998	Rename resource '1_20190408_library_project.exerd'
+1554797872151	Rename field 'mMemberMng'
+1554797875522	Rename field 'mRent'
+1554797881372	Rename field 'sRent'
+1554798054042	Rename field 'mBtn_LogOut'
+1554798267068	Rename field 'btn_LogIn'
+1554798506942	Rename field 'mBook'
+1554798509594	Rename field 'mRent'
+1554798512483	Rename field 'mMain'
+1554798516557	Rename field 'mLogin'
+1554799171202	Rename type 'Return'
+1554799184124	Rename type 'BookReturn'

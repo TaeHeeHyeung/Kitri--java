@@ -1,0 +1,18 @@
+1554338918862	Rename local variable 'menuNum'
+1554339210503	Rename local variable 'mHak'
+1554339215136	Rename local variable 'hakaDto'
+1554339950418	Rename method 'printMenu'
+1554340249021	Rename method 'printMenu'
+1554340310861	Rename method 'selectMenu'
+1554340556307	Rename field 'BEFORE'
+1554341002259	Rename method 'menu'
+1554341852184	Rename local variable 'haskServiceImpl'
+1554343038132	Rename local variable 'hasksaServiceImpl'
+1554343167949	Copy compilation unit
+1554343943000	Rename type 'HaksaMain2'
+1554343945671	Rename type 'HaksaMainBack'
+1554351819333	Delete element
+1554352680135	Rename local variable 'choiceJob'
+1554355200318	Rename method 'deleteMenu'
+1554361822393	Delete element
+1554363661615	Rename method 'getInputString'

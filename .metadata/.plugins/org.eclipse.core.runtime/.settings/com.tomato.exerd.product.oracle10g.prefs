@@ -1,0 +1,4 @@
+com.tomato.exerd.preference.PropertyPagePrefConstants.oracle10g.CREATE_TRIGGER=false
+com.tomato.exerd.preference.PropertyPagePrefConstants.oracle10g.DROP_TRIGGER=false
+com.tomato.exerd.preference.PropertyPagePrefConstants.oracle10g.USE_OWNER_PREFIX=false
+eclipse.preferences.version=1

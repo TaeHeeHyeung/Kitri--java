@@ -1,0 +1,18 @@
+ErroFIx
+1. 로그인 TextField 에러 
+ 에러현상: password에서 shift+tab을 하면 id 입력으로 가면서 password값이 제거된다.
+ 
+2. 도서정보 변경 에러 bookInfo Class
+에러원인 : 도서 정보 변경을 Isbn을 기준으로 하고있기 때문.
+해결방법: 도서정보를 Sequence로 관리할 필요가 있어보인다.
+
+3. 최상단 객체를 종료할때 팝업창이 남아있는다.
+
+4. jtable 값 변경 성능향상을 위해 api검색이 필요
+테스트 필요(DefaultTable)
+model.removeRow(row);
+model.fireTableDataChanged();
+
+5.책과 맴버 변경하기 기능을 인터페이스로 강제할 수 있을거같다. => 텍스트필드 값 초기화, Dto 설정, 이미지 표현
+
+6.테이블은 static으로 관리해도 될거같다. 여러 페이지에서 값을변경하면 메인테이블에도 적용되어야한다.

@@ -1,0 +1,44 @@
+
+insert into book (isbn, name, writer,image_path,genre,publisher,position,publish_date)
+values('isbn2' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+insert into book (isbn, name, writer,image_path,genre,publisher,position,publish_date)
+values('isbn3' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+insert into book (isbn, name, writer,image_path,genre,publisher,position,publish_date)
+values('isbn4' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+insert into book (isbn, name, writer,image_path,genre,publisher,position,publish_date)
+values('isbn5' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+insert into book (isbn, name, writer,image_path,genre,publisher,position,publish_date)
+values('isbn6' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+insert into book (isbn, name, writer,image_path,genre,publisher,position,publish_date)
+values('isbn7' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+commit;
+
+insert into book values('isbn3' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+insert into book values('isbn4' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+insert into book values('isbn5' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+insert into book values('isbn6' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+insert into book values('isbn7' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+insert into book values('isbn8' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+insert into book values('isbn9' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+insert into book values('isbn10' ,'name','write' ,'image','genre','publisher','position' , SYSDATE );
+commit;
+
+select * from book;
+
+insert into member values('11' ,'gender','name' ,'phone_number','address','image' , SYSDATE );
+insert into member values('22' ,'gender','name' ,'phone_number','address','image' , SYSDATE );
+insert into member values('33' ,'gender','name' ,'phone_number','address','image' , SYSDATE );
+insert into member values('44' ,'gender','name' ,'phone_number','address','image' , SYSDATE );
+insert into member values('member5' ,'gender','name' ,'phone_number','address','image' , SYSDATE );
+insert into member values('member6' ,'gender','name' ,'phone_number','address','image' , SYSDATE );
+insert into member values('member7' ,'gender','name' ,'phone_number','address','image' , SYSDATE );
+insert into member values('member8' ,'gender','name' ,'phone_number','address','image' , SYSDATE );
+insert into member values('member9' ,'gender','name' ,'phone_number','address','image' , SYSDATE );
+insert into member values('member10' ,'gender','name' ,'phone_number','address','image' , SYSDATE);
+commit;
+
+select * from book;
+
+insert into manager values(1 ,'kitri','kitri','kitri');
+select * from manager;
+commit;

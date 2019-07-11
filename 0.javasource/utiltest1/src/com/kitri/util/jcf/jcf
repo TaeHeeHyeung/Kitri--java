@@ -1,0 +1,27 @@
+** JCF (Java Collection Framework) 배열과의 가장 큰 차이점. 크기가 유동적.자동증가 자동감소.        
+
+    Collection(집함)       			
+        
+List 				 Set	
+순서유지O 				 순서유지X
+중복data 가능			 중복data 불가능(에러가 아니라 기존 데이터를 덮어씌움)
+
+
+									
+----------------------------------------------------------------
+ArrayList			HashSet				HashMap			Hashtable
+(엄청중요함)		   (엄청중요함)
+
+Vector													Properties
+
+
+
+
+
+
+
+MAP <K,V> K =키(유일값) V=밸류(저장할 수 있는 값) K를 가지고 저장하게되면 실질적으로 V를 찾을 수 있다.
+---------------------------
+HashMap			Hashtable
+
+				Properties

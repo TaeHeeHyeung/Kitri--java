@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;lblX&apos; in &apos;com.kitri.project1.Page5.Page5()&apos; to &apos;lble&apos;&#x0D;&#x0A;- Original project: &apos;project1_library&apos;&#x0D;&#x0A;- Original element: &apos;com.kitri.project1.Page5.Page5().lblX&apos;&#x0D;&#x0A;- Renamed element: &apos;lblX&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;lblX&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.kitri.project1{Page5.java[Page5~Page5@lblX!928!1003!935!938!QJLabel;!0!false" name="lble" references="true" stamp="1554193330390" version="1.0"/>
+</session>
