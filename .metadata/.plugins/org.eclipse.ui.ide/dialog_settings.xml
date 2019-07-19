@@ -8,8 +8,8 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="C:\Users\user\Desktop\2019-04-12 library_All\0.20190412 libraryProject\0.20190411 libraryProject"/>
 			<item value="E:\javadata\workspace\javase"/>
+			<item value="C:\Users\user\Desktop\2019-04-12 library_All\0.20190412 libraryProject\0.20190411 libraryProject"/>
 			<item value="C:\Users\user\git\javasource\utiltest\utiltest"/>
 			<item value="C:\Users\user\git\javasource\utiltest"/>
 			<item value="C:\Users\user\git\javasource\kitritest"/>
